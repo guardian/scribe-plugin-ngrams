@@ -1,5 +1,5 @@
 const natural = require('natural');
-const R = require('ramda');
+
 
 module.exports = function(config) {
     const NGrams = natural.NGrams;
@@ -27,8 +27,6 @@ module.exports = function(config) {
         var nGramsCommand = new scribe.api.Command('ngrams');
 
         nGramsCommand.execute = () => {
-
-            R.reduce(scribe.el.innerText, unWords);
             let text = unWords.reduce((val, fn) => {
                 return fn(val);
             }, scribe.el.innerText);
