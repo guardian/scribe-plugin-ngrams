@@ -2,17 +2,17 @@
   "name": "scribe-plugin-ngrams",
   "description": "Get ngrams from a given scribe instance",
   "version": "0.1.1",
-  "homepage": "https://github.com/hmgibson23/scribe-plugin-ngrams",
+  "homepage": "https://github.com/guardian/scribe-plugin-ngrams",
   "author": {
     "name": "hmgibson23",
     "email": "hugo.gibson@yahoo.co.uk"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hmgibson23/scribe-plugin-ngrams"
+    "url": "https://github.com/guardian/scribe-plugin-ngrams"
   },
   "bugs": {
-    "url": "https://github.com/hmgibson23/scribe-plugin-ngrams/issues"
+    "url": "https://github.com/guardian/scribe-plugin-ngrams/issues"
   },
   "licenses": [
     {
@@ -44,14 +44,15 @@
     "chai": "1.9.1",
     "glob": "^4.1.5",
     "http-server": "^0.7.1",
+    "lapack": "^0.1.0",
     "lodash": "^2.4.1",
     "mocha": "^2.0.1",
+    "mversion": "^1.3.0",
     "scribe-test-harness": "^0.0.6",
     "selenium-webdriver": "^2.44.0",
-    "webdriver-manager": "^1.0.1",
     "uglify-js": "^2.4.16",
-    "mversion": "^1.3.0",
-    "watchify": "^2.4.0"
+    "watchify": "^2.4.0",
+    "webdriver-manager": "^1.0.1"
   },
   "keywords": [],
   "dependencies": {
