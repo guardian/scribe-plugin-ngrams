@@ -24,10 +24,10 @@ module.exports = function(config) {
             (text) => text.replace(/ to /g, " ")
         ];
 
-        var nGramsCommand = new scribe.api.Command('ngrams');
+        const nGramsCommand = new scribe.api.Command('ngrams');
 
         nGramsCommand.execute = () => {
-            let text = unWords.reduce((val, fn) => {
+            const text = unWords.reduce((val, fn) => {
                 return fn(val);
             }, scribe.el.innerText);
 
