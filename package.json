@@ -2,17 +2,17 @@
   "name": "scribe-plugin-ngrams",
   "description": "Get ngrams from a given scribe instance",
   "version": "0.1.1",
-  "homepage": "https://github.com/hmgibson23/scribe-plugin-ngrams",
+  "homepage": "https://github.com/guardian/scribe-plugin-ngrams",
   "author": {
     "name": "hmgibson23",
     "email": "hugo.gibson@yahoo.co.uk"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hmgibson23/scribe-plugin-ngrams"
+    "url": "https://github.com/guardian/scribe-plugin-ngrams"
   },
   "bugs": {
-    "url": "https://github.com/hmgibson23/scribe-plugin-ngrams/issues"
+    "url": "https://github.com/guardian/scribe-plugin-ngrams/issues"
   },
   "licenses": [
     {

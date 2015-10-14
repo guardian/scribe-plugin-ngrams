@@ -2,7 +2,7 @@
   "name": "scribe-plugin-words-bigrams-sentences",
   "description": "Do the magic",
   "version": "0.1.0",
-  "homepage": "https://github.com/hmgibson23/scribe-plugin",
+  "homepage": "https://github.com/guardian/scribe-plugin",
   "license": "",
   "copyright": "hmgibson23",
   "main": "scribe-plugin-words-bigrams-sentences.js",
