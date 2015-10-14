@@ -17,6 +17,7 @@ module.exports = function(config) {
             (text) => text.replace(/ on /g, " "),
             (text) => text.replace(/ by /g, " "),
             (text) => text.replace(/ he /g, " "),
+            (text) => text.replace(/ she /g, " "),
             (text) => text.replace(/ had /g, " "),
             (text) => text.replace(/ gone /g, " "),
             (text) => text.replace(/ that /g, " "),
