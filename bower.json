@@ -6,8 +6,8 @@
   "copyright": "hmgibson23",
   "main": "scribe-plugin-ngrams.js",
   "dependencies": {
-    "scribe": "~1.2.2",
-    "scribe-plugin-toolbar": "~0.1.4",
+    "scribe": "~2.0.0",
+    "scribe-plugin-toolbar": "~0.2.1",
     "scribe-common": "~0.0.11",
     "lodash-amd": "~2.4.1"
   },
