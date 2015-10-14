@@ -1,7 +1,7 @@
 {
   "name": "scribe-plugin-ngrams",
   "description": "Do the magic",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "homepage": "https://github.com/guardian/scribe-plugin-ngrams",
   "copyright": "hmgibson23",
   "main": "scribe-plugin-ngrams.js",
