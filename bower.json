@@ -1,11 +1,10 @@
 {
-  "name": "scribe-plugin-words-bigrams-sentences",
+  "name": "scribe-plugin-ngrams",
   "description": "Do the magic",
   "version": "0.2.1",
-  "homepage": "https://github.com/guardian/scribe-plugin",
-  "license": "",
+  "homepage": "https://github.com/guardian/scribe-plugin-ngrams",
   "copyright": "hmgibson23",
-  "main": "scribe-plugin-words-bigrams-sentences.js",
+  "main": "scribe-plugin-ngrams.js",
   "dependencies": {
     "scribe": "~1.2.2",
     "scribe-plugin-toolbar": "~0.1.4",
